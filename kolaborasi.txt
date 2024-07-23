@@ -1,1 +1,2 @@
 Ini adalah file kolaborasi untuk latihan Git.
+INI ADALAH FILE KOLABORASI UNTUK LATIHAN GIT DI AKUN LINDA
